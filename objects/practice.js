@@ -15,6 +15,10 @@
 */
 
 //Code here
+let me = {
+  name:'kyle',
+  age: 29
+}
 
 ////////// PROBLEM 2 //////////
 
@@ -73,7 +77,7 @@ backPack.color = 'black'
 */
 
 //Code here
-alert(backPack)
+alert(backpack)
 
 
 /*
@@ -104,7 +108,8 @@ var user2 = {
 */
 
 //Code Here
-
+user2.name = 'Bryan G. Smith'
+user2.email = 'bryan.smith@devmounta.in'
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
 ////////// MOVE ONTO NEXT SECTION BEFORE WORKING ON THESE ////////////////
 
